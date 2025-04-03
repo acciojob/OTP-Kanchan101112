@@ -1,1 +1,20 @@
-/*  your css code here. If applicable */
+#verification_subtext {
+    font-size: 14px;
+    color: gray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#verification_heading {
+text-align: center;}
+.code-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.code {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+	border: 1px light grey;
+}
